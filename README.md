@@ -1,10 +1,10 @@
 # Zomato-Sales-Analysis-Dashboard
 
-📌 Project Title
+## 📌 Project Title
 
 Zomato Sales Performance & Customer Insights Dashboard
 
-🎯 Project Objective
+## 🎯 Project Objective
 
 To analyze Zomato’s sales, order volume, customer ratings, and city-wise performance using an interactive dashboard in order to identify top-performing categories, key revenue-driving cities, yearly sales trends, and actionable insights to support data-driven business decisions.
 

@@ -171,7 +171,7 @@ Use ratings data to highlight top-rated restaurants
 
 ## Dashboard Preview
 
-![screenshort]()
+![screenshort](https://github.com/ritik168/Zomato-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-12-17%20215811.png)
 
 
 ## Project End.
